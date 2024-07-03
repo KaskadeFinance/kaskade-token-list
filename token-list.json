@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+  },
+  {
+    "id": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+    "symbol": "wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "decimals": 18,
+    "logoUrl": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png?1696518295"
+  },
+  {
+    "id": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+  },
+  {
+    "id": "0x5300000000000000000000000000000000000004",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+  },
+  {
+    "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+  },
+  {
+    "id": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "decimals": 8,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+  },
+  {
+    "id": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+  },
+  {
+    "id": "0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+    "symbol": "weETH",
+    "name": "Etherfi Wrapped eETH",
+    "decimals": 18,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33033/standard/weETH.png?1701438396"
+  },
+  {
+    "id": "0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136",
+    "symbol": "SIS",
+    "name": "Symbiosis",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png"
+  },
+  {
+    "id": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+    "symbol": "ITP",
+    "name": "Interport Finance",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/22877.png"
+  },
+  {
+    "id": "0x53878b874283351d26d206fa512aece1bef6c0dd",
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png"
+  },
+  {
+    "id": "0x80137510979822322193fc997d400d5a6c747bf7",
+    "symbol": "STONE",
+    "name": "StakeStone Ether",
+    "decimals": 18,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33103/standard/200_200.png?1702602672"
+  },
+  {
+    "id": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "symbol": "ankrETH",
+    "name": "Ankr Staked ETH",
+    "decimals": 18,
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8100.png"
+  },
+  {
+    "id": "0xdf474b7109b73b7d57926d43598d5934131136b2",
+    "symbol": "ANKR",
+    "name": "Ankr Network",
+    "decimals": 18,
+    "logoUrl": "https://assets.coingecko.com/coins/images/4324/standard/U85xTl2.png?1696504928"
+  },
+  {
+    "id": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f",
+    "symbol": "wrsETH",
+    "name": "Wrapped Kelp DAO Restaked ETH",
+    "decimals": 18,
+    "logoUrl": "https://assets.coingecko.com/coins/images/37919/standard/rseth.png?1715936438"
+  },
+  {
+    "id": "0x9e0d7d79735e1c63333128149c7b616a0dc0bbdb",
+    "symbol": "pxETH",
+    "name": "Pirex Ether",
+    "decimals": 18,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33608/standard/pxETH-icon-transbg_72dpi.png?1702512024"
+  }
+]
