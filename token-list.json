@@ -28,7 +28,7 @@
     "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
   },
   {
-    "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "id": "0x0000000000000000000000000000000000000000",
     "symbol": "ETH",
     "name": "Ethereum",
     "decimals": 18,
