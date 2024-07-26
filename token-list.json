@@ -84,20 +84,6 @@
     "logoUrl": "https://assets.coingecko.com/coins/images/33103/standard/200_200.png?1702602672"
   },
   {
-    "id": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
-    "symbol": "ankrETH",
-    "name": "Ankr Staked ETH",
-    "decimals": 18,
-    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8100.png"
-  },
-  {
-    "id": "0xdf474b7109b73b7d57926d43598d5934131136b2",
-    "symbol": "ANKR",
-    "name": "Ankr Network",
-    "decimals": 18,
-    "logoUrl": "https://assets.coingecko.com/coins/images/4324/standard/U85xTl2.png?1696504928"
-  },
-  {
     "id": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f",
     "symbol": "wrsETH",
     "name": "Wrapped Kelp DAO Restaked ETH",
